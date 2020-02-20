@@ -1,0 +1,30 @@
+{
+  "name": "@lomray/webpack-custom-path-resolver",
+  "version": "1.0.0",
+  "dependencies": {},
+  "description": "Webpack custom path resolver",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewPattell/webpack-custom-path-resolver.git"
+  },
+  "keywords": [
+    "webpack",
+    "resolver",
+    "custom",
+    "path",
+    "files",
+    "js",
+    "jpg",
+    "png"
+  ],
+  "author": "Yarmaliuk Mikhail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthewPattell/webpack-custom-path-resolver/issues"
+  },
+  "homepage": "https://github.com/MatthewPattell/webpack-custom-path-resolver#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
